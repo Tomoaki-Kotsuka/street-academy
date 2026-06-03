@@ -19,12 +19,12 @@
 
 1. 下の目次から **オリエンテーション** の **Open in Colab** をクリック
 2. オリエンの最初のコードセル（`drive.mount` + `git clone`）を実行
-3. これで `マイドライブ/Streetacademy/street-academy/` に教材一式がコピーされます（`Streetacademy/` は今後の他のストアカ講座もまとめられる親フォルダです）
+3. これで `マイドライブ/street-academy/python-data-basics/` に教材一式がコピーされます（`street-academy/` は ストアカ の umbrella フォルダで、今後の他のストアカ講座もここに揃えていけます）
 
 ### それ以降の進め方
 
 - 各章のノートブックは、**Google Drive 上のコピー** から開いてください
-  （`マイドライブ → Streetacademy → street-academy → 章フォルダ → .ipynb を右クリック → アプリで開く → Google Colaboratory`）
+  （`マイドライブ → street-academy → python-data-basics → 章フォルダ → .ipynb を右クリック → アプリで開く → Google Colaboratory`）
 - Drive 上で開いたノートブックは編集内容が自動保存されます
 
 > 💡 下の目次の「Open in Colab」バッジは **プレビュー用** です。実際に学習するときは、必ず Drive 上のコピーから開いてください。
@@ -37,14 +37,14 @@
 
 | # | タイトル | Colab |
 |---|---|---|
-| 0-1 | オリエンテーション | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/street-academy/blob/main/00_introduction/00-1_orientation.ipynb) |
+| 0-1 | オリエンテーション | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/00_introduction/00-1_orientation.ipynb) |
 
 ### 第1章 Python の基本
 
 | # | タイトル | Colab |
 |---|---|---|
-| 1-1 | 変数と型 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/street-academy/blob/main/01_python_basics/01-1_variables.ipynb) |
-| 1-2 | 文字列の操作 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/street-academy/blob/main/01_python_basics/01-2_strings.ipynb) |
+| 1-1 | 変数と型 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/01_python_basics/01-1_variables.ipynb) |
+| 1-2 | 文字列の操作 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/01_python_basics/01-2_strings.ipynb) |
 | 1-3 | リストと辞書 | （準備中） |
 | 1-4 | 条件分岐とループ | （準備中） |
 | 1-5 | 関数 | （準備中） |
@@ -82,7 +82,7 @@
 ## ディレクトリ構成
 
 ```
-street-academy/
+python-data-basics/
 ├── 00_introduction/    オリエンテーション
 ├── 01_python_basics/   第1章
 ├── 02_pandas/          第2章
