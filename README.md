@@ -19,12 +19,12 @@
 
 1. 下の目次から **オリエンテーション** の **Open in Colab** をクリック
 2. オリエンの最初のコードセル（`drive.mount` + `git clone`）を実行
-3. これで `マイドライブ/street-academy/` に教材一式がコピーされます
+3. これで `マイドライブ/Streetacademy/street-academy/` に教材一式がコピーされます（`Streetacademy/` は今後の他のストアカ講座もまとめられる親フォルダです）
 
 ### それ以降の進め方
 
 - 各章のノートブックは、**Google Drive 上のコピー** から開いてください
-  （`マイドライブ → street-academy → 章フォルダ → .ipynb を右クリック → アプリで開く → Google Colaboratory`）
+  （`マイドライブ → Streetacademy → street-academy → 章フォルダ → .ipynb を右クリック → アプリで開く → Google Colaboratory`）
 - Drive 上で開いたノートブックは編集内容が自動保存されます
 
 > 💡 下の目次の「Open in Colab」バッジは **プレビュー用** です。実際に学習するときは、必ず Drive 上のコピーから開いてください。
