@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
