@@ -29,7 +29,7 @@
 
 | # | タイトル | Colab |
 |---|---|---|
-| 1-1 | 変数と型 | （準備中） |
+| 1-1 | 変数と型 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/street-academy/blob/main/01_python_basics/01-1_variables.ipynb) |
 | 1-2 | 文字列の操作 | （準備中） |
 | 1-3 | リストと辞書 | （準備中） |
 | 1-4 | 条件分岐とループ | （準備中） |
