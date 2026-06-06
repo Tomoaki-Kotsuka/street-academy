@@ -47,7 +47,7 @@
 | 1-2 | 文字列の操作 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/01_python_basics/01-2_strings.ipynb) |
 | 1-3 | リストと辞書 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/01_python_basics/01-3_list_dict.ipynb) |
 | 1-4 | 条件分岐とループ | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/01_python_basics/01-4_control_flow.ipynb) |
-| 1-5 | 関数 | （準備中） |
+| 1-5 | 関数 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/01_python_basics/01-5_functions.ipynb) |
 
 ### 第2章 pandas で Excel を操る
 
