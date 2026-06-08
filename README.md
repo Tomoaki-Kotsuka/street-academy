@@ -57,7 +57,7 @@
 | 2-2 | Excel と CSV を読み込む | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/02_pandas/02-2_read_excel_csv.ipynb) |
 | 2-3 | 集計と絞り込み | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/02_pandas/02-3_aggregation.ipynb) |
 | 2-4 | データの加工 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/02_pandas/02-4_transform.ipynb) |
-| 2-5 | Excel への書き出し | （準備中） |
+| 2-5 | Excel への書き出し | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/02_pandas/02-5_write_excel.ipynb) |
 
 ### 第3章 matplotlib で可視化
 
