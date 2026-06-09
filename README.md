@@ -68,16 +68,20 @@
 | 3-3 | pandas から直接グラフを描く | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/03_matplotlib/03-3_pandas_plot.ipynb) |
 | 3-4 | 体裁を整える（日本語フォント等） | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/03_matplotlib/03-4_styling.ipynb) |
 
-### 第4章 総集編：月次売上レポート自動生成
+### 第4章 総集編：全国月次売上レポート自動生成（超実践編）
+
+> 第4章は **「47都道府県の支店から届く 1 ヶ月分の売上ファイルを集計する」** 実務シナリオです。Colab でも進められますが、ローカル環境（4-0）で進めると Drive マウント不要・速度比較 (4-7) も体感できます。
 
 | # | タイトル | Colab |
 |---|---|---|
+| 4-0 | ローカル環境構築（uv + Jupyter Lab） | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-0_local_setup.ipynb) |
 | 4-1 | プロジェクトの全体像 | （準備中） |
-| 4-2 | 複数ファイルの一括読み込み | （準備中） |
+| 4-2 | 47ファイルの一括読み込み | （準備中） |
 | 4-3 | マスタ結合と集計 | （準備中） |
 | 4-4 | グラフ作成 | （準備中） |
 | 4-5 | レポート用 Excel への書き出し | （準備中） |
 | 4-6 | 全部つないだ完成版 | （準備中） |
+| 4-7 | 速度比較：VBA vs Python | （準備中） |
 
 ## ディレクトリ構成
 
