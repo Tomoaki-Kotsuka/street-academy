@@ -66,7 +66,7 @@
 | 3-1 | 棒グラフ | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/03_matplotlib/03-1_bar_chart.ipynb) |
 | 3-2 | 折れ線と散布図 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/03_matplotlib/03-2_line_scatter.ipynb) |
 | 3-3 | pandas から直接グラフを描く | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/03_matplotlib/03-3_pandas_plot.ipynb) |
-| 3-4 | 体裁を整える（日本語フォント等） | （準備中） |
+| 3-4 | 体裁を整える（日本語フォント等） | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/03_matplotlib/03-4_styling.ipynb) |
 
 ### 第4章 総集編：月次売上レポート自動生成
 
