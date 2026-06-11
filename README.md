@@ -75,13 +75,13 @@
 | # | タイトル | Colab |
 |---|---|---|
 | 4-0 | ローカル環境構築（uv + Jupyter Lab） | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-0_local_setup.ipynb) |
-| 4-1 | プロジェクトの全体像 | （準備中） |
-| 4-2 | 47ファイルの一括読み込み | （準備中） |
-| 4-3 | マスタ結合と集計 | （準備中） |
-| 4-4 | グラフ作成 | （準備中） |
-| 4-5 | レポート用 Excel への書き出し | （準備中） |
-| 4-6 | 全部つないだ完成版 | （準備中） |
-| 4-7 | 速度比較：VBA vs Python | （準備中） |
+| 4-1 | プロジェクトの全体像 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-1_overview.ipynb) |
+| 4-2 | 47ファイルの一括読み込み | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-2_load_files.ipynb) |
+| 4-3 | マスタ結合と集計 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-3_join_aggregate.ipynb) |
+| 4-4 | グラフ作成 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-4_charts.ipynb) |
+| 4-5 | レポート用 Excel への書き出し | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-5_write_report.ipynb) |
+| 4-6 | 全部つないだ完成版 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-6_full_pipeline.ipynb) |
+| 4-7 | 速度比較：VBA vs Python | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomoaki-Kotsuka/python-data-basics/blob/main/04_capstone/04-7_vba_comparison.ipynb) |
 
 ## ディレクトリ構成
 
